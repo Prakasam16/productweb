@@ -187,7 +187,7 @@ Home.html
 ```
 <body>
     <div class="container">
-      <div class="banner">Tarun Private Limited.</div>
+      <div class="banner">Prakasam Private Limited.</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/html/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/html/products.html">Products</a></div>
@@ -199,7 +199,7 @@ Home.html
           <h1>About Us</h1>
           <img src="/static/img/logo.png" alt="logo" />
           <div class="contenttext">
-            We Tarun pvt.ltd provide many original softwares for low prices than than the original prices.
+            We Prakasam pvt.ltd provide many original softwares for low prices than than the original prices.
             We are the best to provide you many softwares to make your work easy. 
             <br />
             All the softwares are verified and original. All the products will be shipped to your home or 
@@ -213,7 +213,7 @@ Home.html
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Tarun Private Limited, Developed by Tarun.
+        Copyright &#169; 2021 Prakasam Private Limited, Developed by Prakasam.
       </div>
     </div>
   </body>
@@ -224,14 +224,14 @@ Products.html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Tarun Private Limited</title>
+    <title>Prakasam Private Limited</title>
     <link rel="stylesheet" href="../css/layout.css" />
     <link rel="icon" href="../img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Tarun Private Limited.</div>
+      <div class="banner">Prakasam Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/html/home.html">Home</a></div>
         <div class="menuitemselected"> <a href="/static/html/products.html">Products</a> </div>
@@ -332,7 +332,7 @@ Products.html
           </div>        
         </div>
       <div class="footer">
-        Copyright &#169; 2021 Tarun Private Limited, Developed by Tarun.
+        Copyright &#169; 2021 Prakasam Private Limited, Developed by Prakasam.
       </div>
     </div>
   </body>
@@ -344,14 +344,14 @@ People.html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Tarun Private Limited</title>
+    <title>Prakasam Private Limited</title>
     <link rel="stylesheet" href="../css/layout.css" />
     <link rel="icon" href="../img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Tarun Private Limited.</div>
+      <div class="banner">Prakasam Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/html/home.html">Home</a></div>
         <div class="menuitem">
@@ -408,7 +408,7 @@ People.html
       </div>
         </div>
       <div class="footer">
-        Copyright &#169; 2021 Tarun Private Limited, Developed by Tarun.
+        Copyright &#169; 2021 Prakasam Private Limited, Developed by Prakasam.
     </div>    
       </div>
     </div>
@@ -421,14 +421,14 @@ Contactus.html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Tarun Private Limited</title>
+    <title>Prakasam Private Limited</title>
     <link rel="stylesheet" href="../css/layout.css" />
     <link rel="icon" href="../img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Tarun Private Limited.</div>
+      <div class="banner">Prakasam Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/html/home.html">Home</a></div>
         <div class="menuitem"><a href="/static//html/products.html">Products</a></div>
@@ -440,7 +440,7 @@ Contactus.html
           <h1>Contact Us</h1>
           <img src="/static/img/logo.png" alt="Logo" />
           <div class="contenttext">
-            Email: Tarunpvtltd@gmail.com
+            Email: Prakasampvtltd@gmail.com
             <br>
             Phone: +919876543210
             <br>
@@ -450,7 +450,7 @@ Contactus.html
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Tarun Private Limited, Developed by Tarun.
+        Copyright &#169; 2021 Prakasam Private Limited, Developed by Prakasam.
       </div>
     </div>
   </body>
